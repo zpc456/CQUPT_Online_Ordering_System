@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b899f8c7-7627-448a-9843-6c513b8cde1e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FzZNUCOcLzLIkMP5clMdsoRAUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/CQUPT_Online_Ordering_System",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "e9d0dc04ff3f67115db115e7f224e08b"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\reggie_take_out-master\src\main\resources\front\styles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieTakeOutApplication (1)">
+    <configuration name="ReggieTakeOutApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ReggieTakeOutApplication" />
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieTakeOutApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CQUPT_Online_Ordering_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ReggieTakeOutApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieTakeOutApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ReggieTakeOutApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieTakeOutApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ReggieTakeOutApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieTakeOutApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CQUPT_Online_Ordering_System" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ReggieTakeOutApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieTakeOutApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reggie_take_out-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ReggieTakeOutApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReggieTakeOutApplicationTests (1)" />
+        <item itemvalue="JUnit.ReggieTakeOutApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ReggieTakeOutApplicationTests" />
+        <item itemvalue="Application.ReggieTakeOutApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b899f8c7-7627-448a-9843-6c513b8cde1e" name="Changes" comment="" />
+      <created>1665496833992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665496833992</updated>
+      <workItem from="1665676901563" duration="122000" />
+      <workItem from="1665713633504" duration="1217000" />
+      <workItem from="1666006071621" duration="2334000" />
+      <workItem from="1666010957381" duration="2003000" />
+      <workItem from="1666177922248" duration="599000" />
+      <workItem from="1666183269928" duration="108000" />
+      <workItem from="1666534601722" duration="616000" />
+      <workItem from="1667220787874" duration="183000" />
+      <workItem from="1667220982224" duration="2349000" />
+      <workItem from="1667739047259" duration="1080000" />
+      <workItem from="1667827735928" duration="1784000" />
+      <workItem from="1667829535843" duration="1020000" />
+      <workItem from="1667830573377" duration="2089000" />
+      <workItem from="1667960264994" duration="72000" />
+      <workItem from="1667960354310" duration="21000" />
+      <workItem from="1667960398198" duration="66000" />
+      <workItem from="1667960521582" duration="117000" />
+      <workItem from="1668148098319" duration="26000" />
+      <workItem from="1668425037898" duration="3504000" />
+      <workItem from="1668428627961" duration="6353000" />
+      <workItem from="1668673944251" duration="1869000" />
+      <workItem from="1668675901204" duration="6305000" />
+      <workItem from="1668687609401" duration="273000" />
+      <workItem from="1668687905835" duration="1234000" />
+      <workItem from="1668690437498" duration="4315000" />
+      <workItem from="1668752630616" duration="2845000" />
+      <workItem from="1668756074949" duration="1133000" />
+      <workItem from="1668757656456" duration="471000" />
+      <workItem from="1668773819082" duration="3301000" />
+      <workItem from="1668777781272" duration="311000" />
+      <workItem from="1668778154025" duration="4046000" />
+      <workItem from="1668782322182" duration="4627000" />
+      <workItem from="1668788711808" duration="543000" />
+      <workItem from="1668838265345" duration="15041000" />
+      <workItem from="1668869970623" duration="1229000" />
+      <workItem from="1668871548257" duration="331000" />
+      <workItem from="1668871975570" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
