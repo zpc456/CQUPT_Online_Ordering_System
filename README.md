@@ -1,5 +1,6 @@
 技术架构：
 •Springboot+Mybatis plus+vue+MySQL
+
 部署系统必备：
 •JDK
 •MySQL
